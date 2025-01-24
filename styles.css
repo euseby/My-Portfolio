@@ -103,7 +103,11 @@ h1,h2{
     margin-bottom: 20px;
     color: #00ff00;
 }
-
+#contact h3 {
+    font-size: 1.5rem;
+    color: #00ff00;
+    margin-bottom: 10px;
+}
 #contact a {
     color: #00ff00;
     text-decoration: none;
